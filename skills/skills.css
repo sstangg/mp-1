@@ -147,21 +147,4 @@ img{
         padding: 0;
         font-size: calc(1px + 2vw);
     }
-
-    .text-wrapper {
-        flex-direction: column;
-        width: 100%;
-        justify-content: center;
-        align-items: center;
-    }
-    /*actual content sizing*/
-    #intro{ /* for intro paragraph */
-        display: block;
-        padding: 0 3%;
-        font-size: calc(2px + 3vw);
-        margin-top: 2vw;
-        width: 100%;
-        line-height: 6vh;
-    }
-
 }
